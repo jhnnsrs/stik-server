@@ -1,4 +1,4 @@
-# Konviktion-Server
+# Stik-Server
 
 
 [![codecov](https://codecov.io/gh/arkitektio/omero-ark-server/branch/main/graph/badge.svg?token=UGXEA2THBV)](https://codecov.io/gh/arkitektio/omero-ark-server)
@@ -10,11 +10,12 @@
 
 ## Develompent
 
-Want to use Arkitekt with your Notion Workspace? Well here we go!
+Want to use WandB in your Arkitekt workflows? Do you want to see your runs, track your models, and visualize your data? Look no more
+with this simple integration you can use WandB in your Arkitekt workflows, and get all the benefits of the WandB platform.
 
 
 ### Goal
 
-The Goal of this project is to provide a simple and easy to use API for Notion. This API should be able to create, read, update and delete pages and blocks. And allow users
-to add items to tables and databases inside notion.
+The Goal of this project is to provide a simple and easy to use API for WandB. This API should be able to create and maintain Projects.
+Its client library should be able to create and maintain runs, and log data to the WandB platform. (see stik-client)
 
